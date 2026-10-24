@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# Backups & Temporary files
+*.backup
+*.bak
+*.disabled
+*.tmp
+*.log
+1.txt
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store

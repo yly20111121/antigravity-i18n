@@ -13,7 +13,7 @@
 
 [功能特点](#-功能特点) • [快速开始](#-快速开始) • [词库扩展](#-词库扩展) • [技术原理](#-核心技术实现) • [一键还原](#-一键还原)
 
-感谢仓库https://github.com/MIMICTE/Antigravity-zh-CN收集的翻译包
+感谢仓库 https://github.com/MIMICTE/Antigravity-zh-CN 收集的翻译包
 
 </div>
 
